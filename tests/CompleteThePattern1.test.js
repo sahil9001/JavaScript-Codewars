@@ -1,4 +1,4 @@
-const pattern = require('../CompleteThePattern');
+const pattern = require('../CompleteThePattern1');
 test('Answer',() => {
     expect(pattern(1)).toBe('1');
     expect(pattern(2)).toBe('1\n22');
