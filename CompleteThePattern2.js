@@ -9,3 +9,4 @@ function pattern(n){
       }
     return output;
    }
+  module.exports = pattern;
