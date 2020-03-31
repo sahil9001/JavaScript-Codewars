@@ -17,3 +17,4 @@ function listSquared(m, n) {
     }
     return arr;
 }
+module.exports = listSquared;
