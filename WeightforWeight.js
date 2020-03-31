@@ -7,3 +7,5 @@ function orderWeight(strng) {
       };
     return strng.split(' ').sort(comp).join(' ');
    }
+
+module.exports = orderWeight;
