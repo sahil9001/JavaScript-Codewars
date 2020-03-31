@@ -1,0 +1,25 @@
+{
+  "name": "js-codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CompleteThePattern1.js",
+  "dependencies": {
+    "jest": "^25.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil9001/JavaScript-Codewars.git"
+  },
+  "author": "Sahil Silare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahil9001/JavaScript-Codewars/issues"
+  },
+  "homepage": "https://github.com/sahil9001/JavaScript-Codewars#readme"
+}
